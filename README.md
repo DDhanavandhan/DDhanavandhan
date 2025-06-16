@@ -29,6 +29,17 @@
   </a>
 </div>
 
+<hr/>
+ 
+<h2 align="center">⚒️ Devops-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat,terraform,docker,jenkins,sonarqube,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,githubactions,promotheus,grafana,kubernetes,trivy,helm" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <!--
 **DDhanavandhan/DDhanavandhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
