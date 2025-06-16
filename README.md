@@ -42,10 +42,10 @@ A recent graduate with a strong foundation and hands-on experience in devops, se
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat,terraform,docker,bash,jenkins,vscode,github,git,nodejs,githubactions,grafana,kubernetes" />
-    <img width="50"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus" />
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube" />
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" alt="Strapi" title="Strapi"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" /><br>
+    <img width="30"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus" />
+    <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube" />
+    <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" alt="Strapi" title="Strapi"/>
+    <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" /><br>
 </div>
 
 
