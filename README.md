@@ -21,8 +21,7 @@
   <a href="mailto:dhanavandhan96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/dhanavandhan-d-9385a9246 ![image](https://github.com/user-attachments/assets/6608d7ef-2a6a-4102-b6d3-6c2b03fa72ad)
-" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanavandhan-d-9385a9246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
