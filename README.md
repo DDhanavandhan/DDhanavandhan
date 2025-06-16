@@ -1,5 +1,4 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DDhanavandhan.DDhanavandhan" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+dhanavandhan!;" />
@@ -15,7 +14,7 @@ A recent graduate with a strong foundation and hands-on experience in devops, se
  
 🌱 I’m currently learning **kubernetes ,ecs ,gitlab**
 
-- 📄 RESUME
+- 📄 MY RESUME
   
 [<img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=RESUME&logoColor=white">](https://drive.google.com/drive/folders/1--mUeoGovE0-3G-dOsqkN3THCYRoh7jb)
 
@@ -34,33 +33,27 @@ A recent graduate with a strong foundation and hands-on experience in devops, se
 </div>
 
 
-
-
-
  
 <h2 align="center">⚒️ Devops-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat,terraform,docker,bash,jenkins,vscode,github,git,nodejs,githubactions,grafana,kubernetes" />
-    <img width="30"src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus" />
-    <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube" />
-    <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" alt="Strapi" title="Strapi"/>
-    <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" /><br>
+    <img width="3000" src="https://skillicons.dev/icons?i=aws,linux,ubuntu,redhat,terraform,docker,bash,jenkins,vscode,github,git,nodejs,githubactions,grafana,kubernetes" />
+    <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus" />
+    <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube" />
+    <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" alt="Strapi" title="Strapi"/>
+    <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" /><br>
 </div>
 
 
+<br/><br/><br/>
 
-<h2 align="left">⚡ Stats ⚡</h2>
-<br>
-<div align=left>
-    
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ddhanavandhan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ddhanavandhan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
- 
-  <br/>
-  
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ddhanavandhan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br/>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=DDhanavandhan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="DDhanavandhan's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=DDhanavandhan&theme=react&hide_border=true" alt="DDhanavandhan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDhanavandhan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="DDhanavandhan's GitHub Stats" />
 </div>
 
-<br/><br/>
