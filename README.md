@@ -28,7 +28,6 @@ A recent graduate with a strong foundation and hands-on experience in devops, se
   </a>
   <a href="https://.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-     <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   </a>
 </div>
 
