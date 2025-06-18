@@ -26,7 +26,7 @@ A recent graduate with a strong foundation and hands-on experience in devops, se
   <a href="https://www.linkedin.com/in/dhanavandhan-d-9385a9246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://.github.io" target="_blank">
+  <a href="https://dhana-portfolio-liard.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
