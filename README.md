@@ -52,7 +52,8 @@ A recent graduate with a strong foundation and hands-on experience in devops, se
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=DDhanavandhan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="DDhanavandhan's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=DDhanavandhan&theme=react&hide_border=true" alt="DDhanavandhan's GitHub Stats" />
+    
+#<img src="https://streak-stats.demolab.com?user=DDhanavandhan&theme=react&hide_border=true" alt="DDhanavandhan's GitHub Stats" />#
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDhanavandhan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="DDhanavandhan's GitHub Stats" />
 </div>
 
